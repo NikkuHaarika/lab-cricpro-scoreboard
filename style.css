@@ -1,5 +1,26 @@
 /* Type your code here */
-
+body{
+	background-image:url(https://github.com/NikkuHaarika/lab-cricpro-scoreboard/blob/master/assets/background-image1.png?raw=true);
+	 background-repeat:no-repeat;
+	background-size:cover;
+  }
+  .container{
+   width:800px;
+   background-color: white;
+  }
+  table{
+	display:table-cell;
+	border-collapse:seperate;
+	box-sizing:border-box;
+	text-indent:initial;
+  }
+  #box1{
+	background-color:red;
+	width:800px;
+  }
+.mainpage{
+	height:70px;
+}  
 
 /* change the font family and spacing as per your project font */
 .footer{
@@ -13,4 +34,7 @@
 	font-family: Nunito Sans;
     font-style: normal;
     
+}
+h1{
+	letter-spacing: 3px;
 }
